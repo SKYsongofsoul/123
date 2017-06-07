@@ -1,0 +1,13 @@
+.\objects\main.o: user\main.c
+.\objects\main.o: .\lpc11xx\LPC11xx.h
+.\objects\main.o: .\lpc11xx\core_cm0.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: .\lpc11xx\core_cmInstr.h
+.\objects\main.o: .\lpc11xx\core_cmFunc.h
+.\objects\main.o: .\lpc11xx\system_LPC11xx.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\main.o: .\LCD1602\LCD1602.h
+.\objects\main.o: .\key\Key.h
+.\objects\main.o: .\UART\UART.h
+.\objects\main.o: .\temp\temp.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

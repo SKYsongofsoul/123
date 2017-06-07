@@ -1,0 +1,9 @@
+.\objects\lcd1602.o: LCD1602\LCD1602.c
+.\objects\lcd1602.o: .\lpc11xx\LPC11xx.h
+.\objects\lcd1602.o: .\lpc11xx\core_cm0.h
+.\objects\lcd1602.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lcd1602.o: .\lpc11xx\core_cmInstr.h
+.\objects\lcd1602.o: .\lpc11xx\core_cmFunc.h
+.\objects\lcd1602.o: .\lpc11xx\system_LPC11xx.h
+.\objects\lcd1602.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\lcd1602.o: LCD1602\LCD1602.h

@@ -1,0 +1,9 @@
+.\objects\key.o: key\Key.c
+.\objects\key.o: key\Key.h
+.\objects\key.o: .\lpc11xx\LPC11xx.h
+.\objects\key.o: .\lpc11xx\core_cm0.h
+.\objects\key.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\key.o: .\lpc11xx\core_cmInstr.h
+.\objects\key.o: .\lpc11xx\core_cmFunc.h
+.\objects\key.o: .\lpc11xx\system_LPC11xx.h
+.\objects\key.o: .\LCD1602\LCD1602.h
