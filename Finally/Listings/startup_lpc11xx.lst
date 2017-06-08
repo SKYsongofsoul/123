@@ -361,10 +361,10 @@ ARM Macro Assembler    Page 6
               00000000 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M0 --apcs=interw
 ork --depend=.\objects\startup_lpc11xx.d -o.\objects\startup_lpc11xx.o -IC:\Use
-rs\LMK\Desktop\新建文件夹\RTE -IC:\Keil_v5\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Devi
-ce\Include\LPC11xx -IC:\Keil_v5\ARM\CMSIS\Include --predefine="__EVAL SETA 1" -
--predefine="__UVISION_VERSION SETA 520" --list=.\listings\startup_lpc11xx.lst l
-pc11xx\startup_LPC11xx.s
+rs\LMK\Desktop\QimoProject\qimo\RTE -IC:\Keil_v5\ARM\PACK\Keil\LPC1100_DFP\1.4.
+0\Device\Include\LPC11xx -IC:\Keil_v5\ARM\CMSIS\Include --predefine="__EVAL SET
+A 1" --predefine="__UVISION_VERSION SETA 520" --list=.\listings\startup_lpc11xx
+.lst lpc11xx\startup_LPC11xx.s
 
 
 
